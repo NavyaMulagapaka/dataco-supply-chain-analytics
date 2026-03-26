@@ -3,14 +3,6 @@
 🚀 **End-to-End Data Engineering + Data Analytics Project**  
 *(SQL Server | Snowflake Schema | Power BI)*
 
----
-
-## 📊 **Dashboard Preview**
-
-![Dashboard](powerbi/assets/dashboard_overview.png)
-
----
-
 ## 📌 **Project Overview**
 
 This project simulates a **real-world supply chain analytics pipeline** where operational data is collected, processed, modeled, and visualized to generate actionable business insights.
